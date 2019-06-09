@@ -174,16 +174,15 @@ p{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 0fr));
   margin-top: 30px;
+  margin-left: 50px;
   grid-gap: 25px;
-
-}
-.butto{
   text-align: center;
+
 }
 .card-layout{
   width: 370px;
   height: 450px;
-  background-color: white;
+  background-color: lightgrey;
 }
 .middlesection{
   margin-left: 15px;
@@ -208,7 +207,7 @@ padding: 16px;
 .card-layout button {
 width: 100px;
 height: 40px;
-align-self: center;
+text-self: center;
 
 }
 
